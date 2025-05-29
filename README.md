@@ -29,3 +29,24 @@ env is set to run.
   }
 }
 ```
+
+Available tools:
+
+```
+List instances
+```
+
+```
+List images
+```
+
+```
+Instance create <image_name>
+```
+
+```
+Instance create redis-server
+```
+
+Note: Very open to suggestions on how this all should work as this initial cut was done not having
+ever used Claude or MCP.
