@@ -5,6 +5,7 @@ go 1.23.4
 require (
 	github.com/metoro-io/mcp-golang v0.13.0
 	github.com/nanovms/ops v0.0.0-20250417002431-cd2208de79dc
+	github.com/spf13/cobra v1.2.1
 )
 
 require (
@@ -77,7 +78,7 @@ require (
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-resty/resty/v2 v2.11.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
 	github.com/golang-jwt/jwt/v5 v5.2.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
@@ -125,7 +126,6 @@ require (
 	github.com/schollz/progressbar/v3 v3.7.3 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/spf13/afero v1.6.0 // indirect
-	github.com/spf13/cobra v1.2.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/terra-farm/go-virtualbox v0.0.4 // indirect
 	github.com/tidwall/gjson v1.18.0 // indirect
